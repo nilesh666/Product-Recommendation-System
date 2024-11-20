@@ -4,7 +4,7 @@ Data is artificial, generated using Python Faker
 
 Mock_data file has the user details of purchased products with the ratings
 
-Recommendation system used here is collaborative filtering (content-based) using cosine similarity and deep learning
+Recommendation system used here is collaborative filtering (content-based) using cosine similarity and deep learning (Detailed explanation in Implementation.pdf).
 
 The output generated here has the product ids which can be matched with the Product_details data.
 
