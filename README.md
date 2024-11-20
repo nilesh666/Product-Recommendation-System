@@ -1,6 +1,6 @@
 # Product-Recommendation-System
 
-Data is artificial generated using Python Faker
+Data is artificial, generated using Python Faker
 
 Mock_data file has the user details of purchased products with the ratings
 
